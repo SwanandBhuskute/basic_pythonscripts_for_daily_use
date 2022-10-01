@@ -1,6 +1,6 @@
 **Text summarization using Transformers Python library**
 
-It is CLI based program used to summarize text using Transformers library.
+It is CLI based program used to summarize text using **Transformers** library.
 
 
 **Built With**

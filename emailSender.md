@@ -1,4 +1,4 @@
-**Image Compression using PIL Python libraray**
+**Email Sender using smtplib Python libraray**
 It is CLI based program used to send e-mail using smtplib (Simple Mail Transfer Protocol) and ssl library.(ssl library is used to secure the connections)
 
 Fixes #3
